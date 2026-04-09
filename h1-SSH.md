@@ -27,3 +27,6 @@ jonka tehtävänä oli luoda tiedosto /tmp/hello-ansible.
 Kun ajoin playbookin komennolla ansible-playbook site.yml, Ansible suoritti tehtävän ja loi tiedoston koneelle.
 Tarkistin lopuksi komennolla ssh localhost 'cat /tmp/hello-ansible', että tiedosto oli oikeasti luotu.
 Tämä harjoitus havainnollisti hyvin, miten Ansible käyttää SSH:ta taustalla ja miten tärkeää toimiva ja automatisoitu kirjautuminen on. Kun SSH ja avaimet ovat kunnossa, Ansible toimii todella helposti ja tehokkaasti.
+
+
+h2 tehtävä: https://github.com/ElenaChudina/linux-course/blob/main/h2.md
