@@ -7,6 +7,7 @@ Kun palvelu oli käynnissä, testasin yhteyden toimivuuden. Koska tein tämän o
 Yhteys muodostui normaalisti, mikä kertoi että SSH toimii oikein. Tämä on tärkeä perusvaihe, koska kaikki myöhemmät tehtävät, 
 kuten Ansible, perustuvat toimivaan SSH-yhteyteen.
 
+
 b) Pubkey – kirjautuminen ilman salasanaa
 
 Seuraavaksi otin käyttöön SSH-avainkirjautumisen, joka helpottaa kirjautumista ja on käytännössä välttämätön automaatiossa. 
