@@ -1,3 +1,5 @@
+Parannettu versio: https://github.com/ElenaChudina/linux-course/blob/main/h1-SSH.md
+
 SSH Kotitehtävä
 
 Tehtävässä käytiin läpi SSH:n perusidea, avainkirjautuminen ja Ansible.
